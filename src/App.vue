@@ -45,7 +45,7 @@ export default {
 
     const answerHandle = () => {
       try {
-        const token = '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'
+        const token = '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'
         const req = {
           model: 'text-davinci-003',
           prompt: message.value,
